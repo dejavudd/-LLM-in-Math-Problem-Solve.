@@ -233,14 +233,6 @@ A: 检查输入JSONL文件格式，确保每行都是有效的JSON对象。
 - [Hugging Face Transformers](https://huggingface.co/transformers/) - 优秀的NLP工具库
 - [PyTorch](https://pytorch.org/) - 深度学习框架
 
-## 📞 联系方式
 
-如有问题或建议，请通过以下方式联系：
-
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/math_baselineq/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/your-username/math_baselineq/discussions)
-
----
 
 ⭐ 如果这个项目对您有帮助，请给它一个星标！
